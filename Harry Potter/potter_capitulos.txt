@@ -1,0 +1,8 @@
+1	Harry Potter y la piedra filosofal
+2	Harry Potter y la cámara secreta
+3	Harry Potter y el prisionero de Azkaban
+4	Harry Potter El Cáliz de Fuego
+5	Harry Potter la orden del Fénix
+6	Harry Potter el Principe Mestizo
+7	Harry Potter Las Reliquias de la Muerte 1
+8	Harry Potter Las Reliquias de la Muerte 2
